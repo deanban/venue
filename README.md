@@ -6,6 +6,4 @@ All data within it are fake!!
 
 ---
 
-![](venuegif.gif)
-
 https://glacial-springs-82881.herokuapp.com/
