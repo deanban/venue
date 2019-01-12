@@ -1,8 +1,8 @@
-This is a project testing react-reveal, react-scroll. Also utilizes renderprop pattern.
+This project was done for practicing and testing Material UI, React renderprop pattern, react-reveal, and react-scroll.
 
 ---
 
-All data within it are fake!!
+All data are fake!!
 
 ---
 
